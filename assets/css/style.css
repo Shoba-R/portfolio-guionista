@@ -489,6 +489,7 @@ b a:hover{
 }
 .work__container.container.grid{
     text-align: center;
+   
 }
 .work__link{
     display:inline-block;
@@ -735,9 +736,10 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active.swiper-pagination-
     .about__skills-content{
         grid-template-columns: repeat(4, max-content);
     }
-    .work__container.container.grid{
+    /* .work__container.container.grid{
         text-align: center;
-    }
+        
+    } */
 }
 /* para pantallas medianas */
 @media screen and (min-width: 576px){
